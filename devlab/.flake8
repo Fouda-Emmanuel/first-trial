@@ -1,0 +1,11 @@
+
+[flake8]
+
+exclude =
+    .git,
+    __pycache__,
+    build/,
+    dist/,
+    docs/,
+    migrations/,
+    settings.py,
